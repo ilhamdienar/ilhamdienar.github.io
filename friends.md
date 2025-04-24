@@ -10,7 +10,7 @@ Berikut teman-teman saya di kelas:
 2. [Alvi Syahril](https://alvi0syahril.github.io)
 3. [Bunga Alfa Zahrah](https://bunga-hub.github.io/)
 4. [Deva Risny](http://devarisny.github.io)
-5. [Faizul Abrar](https://faizul-abrar.github.io/")
+5. [Faizul Abrar](https://faizul-abrar.github.io/)
 6. [Faqriyadi Andika](http://faqriyadiandika.github.io)
 7. [Fathan Mubina](https://fathan-mubina.github.io/)
 8. [Firdhila Ananda](https://firdhilaananda.github.io)
