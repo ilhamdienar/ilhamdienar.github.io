@@ -1,2 +1,6 @@
 url: "https://ilhamdienar.github.io/"
 
+plugins:
+  -jekyll-feed
+  -jekyll-sitemap
+  -jekyll-seo-tag
