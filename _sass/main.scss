@@ -1,5 +1,5 @@
-$primary-color: #3b7b3a;
-$secondary-color: #fbbc05;
+$primary-color: #cec8c8;
+$secondary-color: #cec8c8;
 $font-stack: Helvetica, sans-serif;
 
 body,
@@ -67,6 +67,7 @@ nav {
 
 .btn-bawah {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 

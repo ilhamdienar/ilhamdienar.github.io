@@ -1,5 +1,9 @@
 url: 'https://ilhamdienar.github.io/'
 
+title: Ilham Syahdienar
+description: halo
+
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
